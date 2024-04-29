@@ -1,1 +1,4 @@
-# Breakthrough-Game
+# Breakthrough-Game 6x6 board
+
+### A PvP game of breakthrough made for university. Can be played with a discord bot. 
+To code an AI for Breakthrough, I create an agent program that interprets the game board and outputs legal moves. Using a matrix representation, I develop algorithms for move generation adhering to game rules. An evaluation function then assesses board states, considering factors like piece positioning and control. Through iterative refinement and testing against diverse scenarios, I optimize the agent's performance, aiming for intelligent and competitive play in the strategic, deterministic game of Breakthrough.
